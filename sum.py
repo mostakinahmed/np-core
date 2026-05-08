@@ -6,8 +6,6 @@ b = np.array([1,2,3,4,5])
 c = a-b
 print(c)
 
-import numpy as np
-
 # Static 3D array A
 a = np.array([
     [
